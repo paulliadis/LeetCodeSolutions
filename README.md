@@ -20,5 +20,6 @@ on the right link to .cs files in this repository.
 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words)         | [c#](https://github.com/paulliadis/LeetCodeSolutions/blob/master/LeetCodeSolutions/IntToEnglish.cs)     |
 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)             | [c#](https://github.com/paulliadis/LeetCodeSolutions/blob/master/LeetCodeSolutions/TopKWords.cs)     |
 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [c#](https://github.com/paulliadis/LeetCodeSolutions/blob/master/LeetCodeSolutions/IsPangram.cs)     |
+| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [c#](https://github.com/paulliadis/LeetCodeSolutions/blob/master/LeetCodeSolutions/containsduplicatetwo.cs)     |
 
 Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
