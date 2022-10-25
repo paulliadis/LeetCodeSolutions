@@ -107,8 +107,7 @@ namespace AdventOfCode2020
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int myint = 666666999;
-
+            int myint = Int16.Parse(txtIntToConvert.Text);
             string outString = "";
             if (myint == 0)
             {
