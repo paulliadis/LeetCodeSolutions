@@ -37,7 +37,6 @@ namespace LeetCodeSolutions
                 returnlist.Add(CheckFizzBuzz(i));
             }
 
-            System.Diagnostics.Debug.WriteLine(returnlist.ToArray());
             return returnlist;
         }
 
